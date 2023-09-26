@@ -1,7 +1,7 @@
 {
   "name": "keypair-lib-fork",
   "version": "1.0.8",
-  "description": "Keypair library",
+  "description": "Keypair library fork of https://github.com/pasfranc/keypair-lib",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
@@ -24,7 +24,7 @@
     "keypair",
     "zencode"
   ],
-  "author": "Pasquale Pio Francavilla <pasfranc@gmail.com>",
+  "author": "jhonnyV-V <jhonny_varela_visbal@hotmail.com>",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
@@ -43,9 +43,9 @@
     "lib/**/*"
   ],
   "bugs": {
-    "url": "https://github.com/pasfranc/keypair-lib/issues"
+    "url": "https://github.com/jhonnyV-V/keypair-lib-fork/issues"
   },
-  "homepage": "https://github.com/pasfranc/keypair-lib#readme",
+  "homepage": "https://github.com/jhonnyV-V/keypair-lib-fork#readme",
   "directories": {
     "doc": "docs",
     "lib": "lib"
